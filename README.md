@@ -1,7 +1,7 @@
 ## E-learning Landing Page Template  
 
 [View Live Preview](https://e-learning-tailwind-nextjs-free.vercel.app/) | [Download](https://getnextjstemplates.com/products/e-learning-nextjs-with-app-directory-free-landing-page-template) | [CheckOut Nextjs Templates](https://getnextjstemplates.com/)  
-  
+
   
 
 <a target="_blank" href="https://getnextjstemplates.com/products/e-learning-nextjs-with-app-directory-free-landing-page-template">  
